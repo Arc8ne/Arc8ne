@@ -1,7 +1,7 @@
 ### Hi there, I'm Arc8ne 👋
 
 <!--
-**ArcaneDegree/ArcaneDegree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Arc8ne/Arc8ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneDegree&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arc8ne&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaneDegree&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arc8ne&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArcaneDegree&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Arc8ne&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
