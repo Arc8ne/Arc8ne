@@ -1,4 +1,4 @@
-### Hi there, I'm ArcaneDegree 👋
+### Hi there, I'm Arc8ne 👋
 
 <!--
 **ArcaneDegree/ArcaneDegree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
